@@ -80,7 +80,7 @@ The required dependencies are defined in `pom.xml`. Below are the key dependenci
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/aerosimo/cardvalidator.git
+    git clone https://github.com/aerosimo/cardvalidationsystem.git
     cd cardvalidator
     ```
 
@@ -98,8 +98,8 @@ The required dependencies are defined in `pom.xml`. Below are the key dependenci
 
    Start TomEE and access the application:
 
-    - SOAP Service: WSDL at `http://localhost:8080/soap/cardvalidator?wsdl`
-    - Web Interface: `http://localhost:8080/cardvalidator/index.jsp`
+    - SOAP Service: WSDL at `http://localhost:8080/soap/cardvalidationsystem?wsdl`
+    - Web Interface: `http://localhost:8080/cardvalidationsystem/index.jsp`
 
 ## Detailed Explanation of Components
 
