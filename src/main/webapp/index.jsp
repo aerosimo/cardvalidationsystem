@@ -132,7 +132,7 @@
 
             try {
                 // URL of the SOAP endpoint
-                URL url = new URL("http://ominet.aerosimo.com:8082/cardvalidationsystem/ws/cardvalidator");
+                URL url = new URL("http://ominet.aerosimo.com:8081/cardvalidationsystem/ws/cardvalidator");
 
                 // Open HTTP connection
                 HttpURLConnection connection = (HttpURLConnection) url.openConnection();
