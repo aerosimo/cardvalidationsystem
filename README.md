@@ -98,8 +98,8 @@ The required dependencies are defined in `pom.xml`. Below are the key dependenci
 
    Start TomEE and access the application:
 
-    - SOAP Service: WSDL at `http://localhost:8080/soap/cardvalidationsystem?wsdl`
-    - Web Interface: `http://localhost:8080/cardvalidationsystem/index.jsp`
+    - SOAP Service: WSDL at `http://localhost:8081/soap/cardvalidationsystem?wsdl`
+    - Web Interface: `http://localhost:8081/cardvalidationsystem/index.jsp`
 
 ## Detailed Explanation of Components
 
